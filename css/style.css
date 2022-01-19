@@ -1,0 +1,49 @@
+
+b{
+
+}
+
+#red{
+  color: #f11fa2;
+}
+
+.border1{
+  border-radius: ; 3px;
+  padding: 2px;
+  border: 2px solid black;
+}
+
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+
+kbd {
+  border-radius: 2px;
+  padding: 2px;
+  border: 2px solid black;
+}
+
+fieldset {
+  background-color: #0eeeee;
+}
+
+legend {
+  background-color: gray;
+  color: white;
+  padding: 5px 10px;
+}
+
+input {
+  margin: 5px;
+}
